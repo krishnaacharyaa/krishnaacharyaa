@@ -69,7 +69,7 @@
 ## 🔗 Social Links
 <div align="center">
   
-  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/
+  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/>
   <img width="12" />
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9d05f13b-8787-411a-8b15-54ac18b11911" height="40" alt="StackOverflow"/>
   <img width="12" />
