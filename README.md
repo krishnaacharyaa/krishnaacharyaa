@@ -4,11 +4,9 @@
 
 <h3> I'm a enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) </h3>
 
-###
+---- 
 
 ## 😇 Little about me
-
-###
 
 <p align="left">
   ✨ Reach of 18 million in StackOverflow<br>
@@ -16,8 +14,8 @@
   🏅 Silver Tags in flutter and dart<br>
   ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
   😄 Believes in giving back to community<br></p>
-
-###
+  
+---- 
 
 ## 🔰 Speaking stats
 
@@ -30,9 +28,8 @@
   <img src="https://streak-stats.demolab.com?user=krishnaacharyaa&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
 </div>
 
-
-###
-## 💻 Tech Stack
+---- 
+ <span> <h2> 💻 Tech Stack</h2></span>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -60,6 +57,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
+
+---- 
 
 ## 🔗 Social Links
 <div align="center">
