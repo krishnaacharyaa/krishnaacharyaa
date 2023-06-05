@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Its Krishna Here!</h1>
 
 ###
 
-<p align="left">My name is Krishna and I'm a enthusiastic (Designer | Developer (Web2.0, Web3.0, Mobile) </p>
+### I'm a enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) 
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Little about me 🤫</h2>
 
 ###
 
