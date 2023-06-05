@@ -2,24 +2,29 @@
 
 ###
 
-### I'm a enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) 
+<h3> I'm a enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) </h3>
 
 ###
 
-<h2 align="left">Little about me 🤫</h2>
+## 😇 Little about me
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Reach of 18 million in StackOverflow<br>
+  🏆 Global Rank of #71 in first quarter of 2023 | StackOverflow  <br>
+  🏅 Silver Tags in flutter and dart<br>
+  ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
+  😄 Believes in giving back to community<br></p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Speaking stats 🔰</h2>
 
 
 <div align="center">
   <img src="https://readme-status-gamma.vercel.app/api?username=krishnaacharyaa&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" alt="Krishna's Github Stats" height="150">
-
+  <div width="10"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
