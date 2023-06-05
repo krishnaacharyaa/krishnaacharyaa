@@ -30,7 +30,7 @@
 </div>
 
 ###
-
+# 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -57,30 +57,17 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9e69fba0-e225-49c2-bf5b-76050192d107" height="40" alt="jjjj"/>
-  ![stack-overflow](https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9e69fba0-e225-49c2-bf5b-76050192d107)
 
 </div>
 
 ###
-
+# Social Links
 <div align="center">
-  <img src="https://profile-counter.glitch.me/krishnaacharyaa/count.svg?"  />
-</div>
-![stack-overflow](https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9d05f13b-8787-411a-8b15-54ac18b11911)
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
-  <img src="https://github.com/krishnaacharyaa/krishnaacharyaa/blob/main/stackoverflow.svg"/>
-  ![h](https://github.com/krishnaacharyaa/krishnaacharyaa/blob/main/stackoverflow.svg)
+  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/>
+  <img width="12" />
+  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9d05f13b-8787-411a-8b15-54ac18b11911" height="40" alt="StackOverflow"/>
+<img width="12" />
+  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
 </div>
 
 ###
