@@ -19,23 +19,23 @@
 
 ###
 
-<h2 align="left">Speaking stats 🔰</h2>
+## 🔰 Speaking stats
 
 
 <div align="center">
-  <img src="https://readme-status-gamma.vercel.app/api?username=krishnaacharyaa&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" alt="Krishna's Github Stats" height="150">
-  <div width="10"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://readme-status-gamma.vercel.app/api?username=krishnaacharyaa&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Krishna's Github Stats" height="180">
+  <img width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnaacharyaa&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="160" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=krishnaacharyaa&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -66,12 +66,13 @@
 </div>
 
 ###
-# Social Links
+## 🔗 Social Links
 <div align="center">
-  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/>
+  
+  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/
   <img width="12" />
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9d05f13b-8787-411a-8b15-54ac18b11911" height="40" alt="StackOverflow"/>
-<img width="12" />
+  <img width="12" />
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
 </div>
 
