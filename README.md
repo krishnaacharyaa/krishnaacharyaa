@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://readme-status-gamma.vercel.app/api?username=krishnaacharyaa&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Krishna's Github Stats" height="180">
   <img width="40"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://readme-status-gamma.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="180" alt="languages graph"  />
  <img height="20"/>
   <img src="https://streak-stats.demolab.com?user=krishnaacharyaa&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
 </div>
@@ -60,6 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
+
 ## 🔗 Social Links
 <div align="center">
 
@@ -69,6 +70,4 @@
   <img width="12" />
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
 </div>
-
-###
 
