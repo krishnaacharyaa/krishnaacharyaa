@@ -60,12 +60,18 @@
 
 ## 🔗 Social Links
 <div align="center">
-
+  <a href="https://www.linkedin.com/in/krishna-acharyaa/">
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/>
+  </a>
+ 
   <img width="12" />
+   <a href="https://stackoverflow.com/users/13431819/agni-gari?tab=profile">
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/9d05f13b-8787-411a-8b15-54ac18b11911" height="40" alt="StackOverflow"/>
+  </a>
   <img width="12" />
+  <a href="https://twitter.com/krishnaacharyaa">
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
+  </a>
 </div>
 <table align="center"  width="100%">
   <tr  width="100%">
