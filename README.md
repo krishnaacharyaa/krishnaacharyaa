@@ -69,4 +69,20 @@
   <img width="12" />
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
 </div>
-
+<table align="center"  width="100%">
+  <tr  width="100%">
+    <td  width="100%">
+      <h2 align="center">My favorite projects 💻</h2>
+    </td>
+  </tr>
+  <tr>
+    <td >
+      <a href="https://github.com/krishnaacharyaa/agora-blockchain-marketplace">
+        <img width="400" src="https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=agora-blockchain-marketplace&theme=gruvbox" />
+      </a>
+      <a href="https://github.com/krishnaacharyaa/ai-image-generator">
+        <img width="400" src="https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=ai-image-generator&theme=gruvbox" />
+      </a>  
+    </td>
+  </tr>
+</table>
