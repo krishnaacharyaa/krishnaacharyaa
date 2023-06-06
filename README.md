@@ -24,9 +24,7 @@
   <img src="https://readme-status-gamma.vercel.app/api?username=krishnaacharyaa&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Krishna's Github Stats" height="180">
   <img width="40"/>
   <img src="https://readme-status-gamma.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="180" alt="languages graph"  />
- <img height="20"/>
-  <img src="https://streak-stats.demolab.com?user=krishnaacharyaa&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
-</div>
+ </div>
 
 ---- 
  <span> <h2> 💻 Tech Stack</h2></span>
@@ -72,7 +70,7 @@
 <table align="center"  width="100%">
   <tr  width="100%">
     <td  width="100%">
-      <h2 align="center">My favorite projects 💻</h2>
+      <h2 align="center">💎 Personal favorites h2>
     </td>
   </tr>
   <tr>
