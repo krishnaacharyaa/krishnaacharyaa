@@ -72,11 +72,15 @@
   <a href="https://twitter.com/krishnaacharyaa">
   <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
   </a>
+
 </div>
+
+--- 
+
 <table align="center"  width="100%">
   <tr  width="100%">
     <td  width="100%">
-      <h2 align="center">💎 Personal favorites h2>
+      <h2 align="center">💎 Personal favorites </h2>
     </td>
   </tr>
   <tr>
