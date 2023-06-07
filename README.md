@@ -62,7 +62,7 @@
 <div align="center">
   
   <a href="https://www.linkedin.com/in/krishna-acharyaa/">
-  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/af3f6bb8-4de7-4647-8f64-032d398fac56" height="40" alt="LinkendIn"/>
+  <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="40" alt="LinkendIn"/>
   </a>
  
   <img width="12" />
