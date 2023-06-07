@@ -71,7 +71,7 @@
   </a>
   <img width="12" />
   <a href="https://twitter.com/krishnaacharyaa">
-  <img src = "https://github.com/krishnaacharyaa/krishnaacharyaa/assets/116620586/787ff481-baf5-4e6a-8ac2-ac56c075d320" height="40" alt="Twitter"/>
+  <img src = "https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-2010-2012.png" height="40" alt="Twitter"/>
   </a>
 
 </div>
