@@ -9,7 +9,7 @@
 ## 😇 Little about me
 
 <p align="left">
-  ✨ Reach of 18 million in StackOverflow<br>
+  ✨ Reach of 18+ million in StackOverflow<br>
   🏆 Global Rank of #71 in first quarter of 2023 | StackOverflow  <br>
   🏅 Silver Tags in flutter and dart<br>
   ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
