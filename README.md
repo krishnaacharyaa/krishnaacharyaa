@@ -14,17 +14,6 @@
   🏅 Silver Tags in flutter and dart<br>
   ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
   😄 Believes in giving back to community<br></p>
-  
----- 
-
-## 🔰 Speaking stats
-
-
-<div align="center">
-  <img src="https://readme-status-gamma.vercel.app/api?username=krishnaacharyaa&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Krishna's Github Stats" height="180">
-  <img width="40"/>
-  <img src="https://readme-status-gamma.vercel.app/api/top-langs?username=krishnaacharyaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="180" alt="languages graph"  />
- </div>
 
 ---- 
  <span> <h2> 💻 Tech Stack</h2></span>
