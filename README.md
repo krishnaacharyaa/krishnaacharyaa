@@ -2,7 +2,7 @@
 
 ###
 
-<h3> I'm a enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) </h3>
+<h3> I'm an enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) </h3>
 
 ---- 
 
