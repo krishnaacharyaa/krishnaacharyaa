@@ -1,4 +1,5 @@
-<h1 align="left">Hey ! Krishna Here 👋</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
 
 ###
 
@@ -8,14 +9,19 @@
 
 ## 😇 Little about me
 
-<p align="left">
-  ✨ Reach of 18+ million in StackOverflow<br>
-  🏆 Global Rank of #71 in first quarter of 2023 | StackOverflow  <br>
-  🏅 Silver Tags in flutter and dart<br>
-  ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
-  😄 Believes in giving back to community<br></p>
+  - ✨ Reach of 18+ million in StackOverflow<br>
+  - 🏆 Global Rank of #71 in first quarter of 2023 | StackOverflow  <br>
+  - 🏅 Silver Tags in flutter and dart<br>
+  - ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
+  - 😄 Believes in giving back to community<br></p>
+  
+----
 
----- 
+## 🌟 Embraced Language Palette</h2></span>
+[![Top Langs](https://readme-status-gamma.vercel.app/api/top-langs/?username=krishnaacharyaa&theme=react)](https://github.com/krishnaacharyaa/github-readme-stats)
+
+
+ 
  <span> <h2> 💻 Tech Stack</h2></span>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
