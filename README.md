@@ -9,10 +9,13 @@
 
 ## 😇 Little about me
 
+-  **🏆 Rankings**
+   -  Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
+   -  Gold Medalist 🥇 in B.Tech | Computer Science branch, SDMCET dharwad, Karnataka with 9.81 CGPA
+   -  Among the Global [Top 30](https://stackexchange.com/leagues/1/month/stackoverflow/2023-01-01/13431819?sort=reputationchange#13431819) Stack Overflow users in January 2023
+   -  Stood out as the [7th](https://stackoverflow.com/help/badges/10624/tailwind-css) individual to earn the bronze tag for Tailwind CSS
+
 - 🚀 Reached over 18 million people on [Stack Overflow](https://stackoverflow.com/users/13431819/krishnaacharyaa)
-- 🥇 Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
-- 🏆 Among the Global [Top 30](https://stackexchange.com/leagues/1/month/stackoverflow/2023-01-01/13431819?sort=reputationchange#13431819) Stack Overflow users in January 2023
-- 🎖 Stood out as the [7th](https://stackoverflow.com/help/badges/10624/tailwind-css) individual to earn the bronze tag for Tailwind CSS
 - 🏅 Silver badge holder in Flutter and Dart
 - ⚡ Bronze badge holder in React, User Interface, iOS, Android, and Tailwind CSS
 - 😄 Passionate about giving back to the community
