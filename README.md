@@ -9,11 +9,13 @@
 
 ## 😇 Little about me
 
-  - ✨ Reach of 18+ million in StackOverflow<br>
-  - 🏆 Global Rank of #71 in first quarter of 2023 | StackOverflow  <br>
-  - 🏅 Silver Tags in flutter and dart<br>
-  - ⚡ Bronze Tags in React, user-interface, ios, android, tailwind-css<br>
-  - 😄 Believes in giving back to community<br></p>
+- 🚀 Reached over 18 million people on [Stack Overflow](https://stackoverflow.com/users/13431819/krishnaacharyaa)
+- 🥇 Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
+- 🏆 Among the Global [Top 30](https://stackexchange.com/leagues/1/month/stackoverflow/2023-01-01/13431819?sort=reputationchange#13431819) Stack Overflow users in January 2023
+- 🎖 Stood out as the [7th](https://stackoverflow.com/help/badges/10624/tailwind-css) individual to earn the bronze tag for Tailwind CSS
+- 🏅 Silver badge holder in Flutter and Dart
+- ⚡ Bronze badge holder in React, User Interface, iOS, Android, and Tailwind CSS
+- 😄 Passionate about giving back to the community
   
 ----
 
