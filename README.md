@@ -19,7 +19,10 @@
 - 😄 Passionate about giving back to the community
   
 ----
+## 😎 Interesting Contributions
+[![Project CrowdFunding](https://readme-status-gamma.vercel.app/api/pin/?username=adrianhajdin&repo=project_crowdfunding&theme=react&show_owner=true)](https://github.com/adrianhajdin/project_crowdfunding/pull/51)
 
+----
 ## 🌟 Embraced Language Palette</h2></span>
 [![Top Langs](https://readme-status-gamma.vercel.app/api/top-langs/?username=krishnaacharyaa&theme=react)](https://github.com/krishnaacharyaa/github-readme-stats)
 
