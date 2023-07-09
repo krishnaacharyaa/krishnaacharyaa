@@ -23,10 +23,6 @@
 [![Project CrowdFunding](https://readme-status-gamma.vercel.app/api/pin/?username=adrianhajdin&repo=project_crowdfunding&theme=react&show_owner=true)](https://github.com/adrianhajdin/project_crowdfunding/pull/51)
 
 ----
-## 🌟 Embraced Language Palette</h2></span>
-[![Top Langs](https://readme-status-gamma.vercel.app/api/top-langs/?username=krishnaacharyaa&theme=react)](https://github.com/krishnaacharyaa/github-readme-stats)
-
-
  
  <span> <h2> 💻 Tech Stack</h2></span>
 <div align="center">
@@ -78,21 +74,3 @@
 </div>
 
 --- 
-
-<table align="center"  width="100%">
-  <tr  width="100%">
-    <td  width="100%">
-      <h2 align="center">💎 Personal favorites </h2>
-    </td>
-  </tr>
-  <tr>
-    <td >
-      <a href="https://github.com/krishnaacharyaa/agora-blockchain-marketplace">
-        <img width="400" src="https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=agora-blockchain-marketplace&theme=gruvbox" />
-      </a>
-      <a href="https://github.com/krishnaacharyaa/ai-image-generator">
-        <img width="400" src="https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=ai-image-generator&theme=gruvbox" />
-      </a>  
-    </td>
-  </tr>
-</table>
