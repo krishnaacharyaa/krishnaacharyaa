@@ -11,7 +11,7 @@
 - 🚀 Reached over [18 million](https://stackoverflow.com/users/13431819/krishnaacharyaa) people on Stack Overflow
 -  **🏆 Rankings**
    -  Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
-   -  Gold Medalist 🥇 in B.Tech | Computer Science branch, SDMCET dharwad, Karnataka with 9.81 CGPA
+   -  Gold Medalist 🥇 in B.Tech | Computer Science branch, SDMCET Dharwad, Karnataka with 9.81 CGPA
    -  Among the Global [Top 30](https://stackexchange.com/leagues/1/month/stackoverflow/2023-01-01/13431819?sort=reputationchange#13431819) Stack Overflow users in January 2023
 - **🎖 Badges and Tags**
    -  Silver badge holder in Flutter and Dart
