@@ -16,7 +16,7 @@
 - **🎖 Badges and Tags**
    -  Silver badge holder in Flutter and Dart
    -  Bronze badge holder in React, User Interface, iOS, Android, and Tailwind CSS
-- 😄 Passionate about giving back to the community
+- 😄 Passionate about giving back to the community !!
   
 ----
 ## 😎 Interesting Contributions
