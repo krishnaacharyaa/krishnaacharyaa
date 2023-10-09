@@ -1,25 +1,20 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hello, folks! <img src="https://tenor.com/blOVi.gif" width="30px" height="30px">
 
-
-###
-
-<h3> I'm an enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) </h3>
+### I'm an enthusiastic Designer & Developer (Web2.0 | Web3.0 | Mobile) 
 
 ---- 
 
-## 😇 Little about me
-- 🚀 Reached over [18 million](https://stackoverflow.com/users/13431819/krishnaacharyaa) people on Stack Overflow
--  **🏆 Rankings**
-   -  Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
-   -  Gold Medalist 🥇 in B.Tech | Computer Science branch, SDMCET Dharwad, Karnataka with 9.81 CGPA
-   -  Among the Global [Top 30](https://stackexchange.com/leagues/1/month/stackoverflow/2023-01-01/13431819?sort=reputationchange#13431819) Stack Overflow users in January 2023
-- **🎖 Badges and Tags**
-   -  Silver badge holder in Flutter and Dart
-   -  Bronze badge holder in React, User Interface, iOS, Android, and Tailwind CSS
-- 😄 Passionate about giving back to the community !!
-  
+## Little about me
+- 🚀 Reached over [20 million](https://stackoverflow.com/users/13431819/krishnaacharyaa) people on Stack Overflow
+- 🏆 Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
+- 🥇 Gold Medalist in B.Tech | Computer Science branch, SDMCET Dharwad, Karnataka with 9.81 CGPA
+- 🥈 Silver badge holder in `flutter` and `dart`
+- 🥉 Bronze badge holder in `javascript`, `reactjs`, `nextjs`, `tailwind-css`, `user-interface`, `android`, `ios` 
+
+## 🔥 Crafted with Passion
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13431819)](https://github.com/krishnaacharyaa/github-stackoverflow-readme)
 ----
-## 😎 Interesting Contributions
+## 🌈 Interesting Contributions
 [![Project CrowdFunding](https://readme-status-gamma.vercel.app/api/pin/?username=adrianhajdin&repo=project_crowdfunding&theme=react&show_owner=true)](https://github.com/adrianhajdin/project_crowdfunding/pull/51)
 
 ----
