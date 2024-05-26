@@ -8,8 +8,8 @@
 - 🚀 Reached over [20 million](https://stackoverflow.com/users/13431819/krishnaacharyaa) people on Stack Overflow
 - 🏆 Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
 - 🥇 Gold Medalist in B.Tech | Computer Science branch, SDMCET Dharwad, Karnataka with 9.81 CGPA
-- 🥈 Silver badge holder in `flutter` and `dart`
-- 🥉 Bronze badge holder in `javascript`, `reactjs`, `nextjs`, `tailwind-css`, `user-interface`, `android`, `ios` 
+- 🥈 Silver badge holder in `flutter`, `dart`, `tailwind-css`
+- 🥉 Bronze badge holder in `javascript`, `reactjs`, `nextjs`, `user-interface`, `android`, `ios` 
 
 ## 🔥 Crafted with Passion
 [![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13431819)](https://github.com/krishnaacharyaa/github-stackoverflow-readme)
