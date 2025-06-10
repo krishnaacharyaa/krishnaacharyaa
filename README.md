@@ -5,7 +5,7 @@
 ---- 
 
 ## Little about me
-- 🚀 Reached over [20 million](https://stackoverflow.com/users/13431819/krishnaacharyaa) people on Stack Overflow
+- 🚀 Reached over [14 million](https://stackoverflow.com/users/13431819/krishnaacharyaa) people on Stack Overflow
 - 🏆 Ranked [#1 Worldwide](https://stackexchange.com/leagues/1/week/stackoverflow/2023-01-01/) on Stack Overflow in the first week of January 2023
 - 🥇 Gold Medalist in B.Tech | Computer Science branch, SDMCET Dharwad, Karnataka with 9.81 CGPA
 - 🥈 Silver badge holder in `flutter`, `dart`, `tailwind-css`
