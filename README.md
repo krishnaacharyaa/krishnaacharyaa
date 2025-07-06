@@ -17,24 +17,38 @@
 ## 🌈 Interesting Contributions
 [![Project CrowdFunding](https://readme-status-gamma.vercel.app/api/pin/?username=adrianhajdin&repo=project_crowdfunding&theme=react&show_owner=true)](https://github.com/adrianhajdin/project_crowdfunding/pull/51)
 
----- 
-
-## 🔗 Social Links
+## 💻 Tech Stack
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/krishna-acharyaa/">
-  <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="40" alt="LinkendIn"/>
-  </a>
- 
-  <img width="12" />
-   <a href="https://stackoverflow.com/users/13431819/agni-gari?tab=profile">
-  <img src = "https://www.xda-developers.com/files/2017/05/stack-overflow.png" height="40" alt="StackOverflow"/>
-  </a>
-  <img width="12" />
-  <a href="https://twitter.com/krishnaacharyaa">
-  <img src = "https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-2010-2012.png" height="40" alt="Twitter"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" width="40" alt="javascript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" width="40" alt="typescript"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40" width="40" alt="golang"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="figma"/>
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" width="40" alt="flutter"/>
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" width="40" alt="solidity"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" alt="nextjs"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" width="40" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" alt="tailwind"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40" width="40" alt="vite"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="mongodb"/>
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" width="40" alt="dynamodb"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" width="40" alt="materialui"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" alt="prisma"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" width="40" alt="aws"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" width="40" alt="kafka"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40" width="40" alt="redis"/>
 </div>
 
---- 
+## 🔗 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/krishna-acharyaa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13431819/agni-gari?tab=profile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" width="40" alt="StackOverflow"/>
+  </a>
+  <a href="https://twitter.com/krishnaacharyaa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" alt="Twitter"/>
+  </a>
+</div>
+
